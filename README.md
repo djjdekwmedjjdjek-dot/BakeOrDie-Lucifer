@@ -1,2 +1,2 @@
-# BakeOrDie-Lucifer
+# LUCI HUB
 Script hub for Bake or Die (Kill Aura, ESP, Auto Farm)
